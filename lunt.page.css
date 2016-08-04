@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Page
+   ========================================================================== */
+
+html {
+  background-color: var(--lunt-base-background);
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+  color: var(--lunt-base-color);
+  font-size: var(--lunt-base-font-size);
+  font-family: var(--lunt-base-font-family);
+  line-height: var(--lunt-base-line-height);
+}
