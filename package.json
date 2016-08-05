@@ -1,0 +1,25 @@
+{
+  "name": "lunt-page",
+  "version": "0.0.1",
+  "description": "Basic properties for the <html> or <body> elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcazalis/lunt-page.git"
+  },
+  "keywords": [
+    "lunt",
+    "css",
+    "framework",
+    "page"
+  ],
+  "author": "David Cazalis <davidcazalis@gmail.com> (http://www.davidcazalis.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidcazalis/lunt-page/issues"
+  },
+  "homepage": "https://github.com/davidcazalis/lunt-page#readme"
+}

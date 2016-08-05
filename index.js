@@ -1,0 +1,1 @@
+require('./lunt-page.css');
